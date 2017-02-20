@@ -26,12 +26,10 @@ body.bg {
     border-radius: 30px;
     box-shadow: 3px 3px 10px 0 rgba(0, 0, 0, .7);
     transform: translateY(-50%);
-/*    transform: translateY(calc(-50% - 25px));*/
+    transform: translateY(calc(-50% - 12.5px));
     margin: 0 auto;
     margin-top: 80px;
     margin-top: 50vh;
-/*    margin-top: calc(50vh - 50px/2);*/
-    /*    margin-top: 330px;*/
     padding: 27px 40px 38px;
     box-sizing: border-box;
 }
